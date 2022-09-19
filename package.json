@@ -1,0 +1,23 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-devices:e2e": "playwright test --config=playwright-devices.config.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.25.2",
+    "@wdio/allure-reporter": "^7.24.0",
+    "allure-commandline": "^2.18.1",
+    "allure-playwright": "^2.0.0-beta.19",
+    "experimental-allure-playwright": "^0.0.3",
+    "playwright": "^1.25.2"
+  },
+  "dependencies": {
+    "randomstring": "^1.2.2"
+  }
+}

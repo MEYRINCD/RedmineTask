@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Sep 18 20:37:01 EEST 2022","Sun Sep 18 20:37:12 EEST 2022","11183","","Testcase5.spec.ts","","","","checking element ",""
+"passed","Sun Sep 18 20:37:01 EEST 2022","Sun Sep 18 20:37:14 EEST 2022","13038","","Testcase4.spec.ts","","","","Login to created account and changing data ",""
+"passed","Sat Sep 17 20:57:35 EEST 2022","Sat Sep 17 20:57:38 EEST 2022","2979","","github-search.test.ts","GitHub - Search Result","","","should verify search result with valid repository name",""
+"passed","Sun Sep 18 20:37:01 EEST 2022","Sun Sep 18 20:37:08 EEST 2022","6551","","Testcase2.spec.ts","","","","Login to created account",""
+"passed","Sun Sep 18 20:37:01 EEST 2022","Sun Sep 18 20:37:04 EEST 2022","2473","","example.spec.ts","","","","homepage has Playwright in title and get started link linking to the intro page",""
